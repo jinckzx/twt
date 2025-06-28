@@ -1,0 +1,26 @@
+=== FULL TECH CONTEXT ===
+
+1. ⭐ Trending: black-forest-labs/flux - Official inference repo for FLUX.1 models...
+
+2. 📰 HN (1926 pts): Machine Learning Crash Course
+
+3. 📰 HN (2544 pts): Airfoil
+
+4. 📰 HN (1656 pts): Machine Learning 101 slidedeck: 2 years of headbanging, so you don't have to
+
+5. 📄 Recent arXiv: 'Assessing an evolutionary search engine for small language models,
+  prompts, and evaluation metrics' - The concurrent optimization of language models and instructional prompts presents a significant challenge for deploying efficient and effective AI systems, particularly when balancing performance agai...
+
+6. ⭐ Trending: coleam00/ottomator-agents - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!...
+
+7. 📰 HN (2360 pts): Open source AI is the path forward
+
+8. ⭐ Trending: gensyn-ai/rl-swarm - A fully open source framework for creating RL training swarms over the internet....
+
+9. 📄 Recent arXiv: 'PsyLite Technical Report' - With the rapid development of digital technology, AI-driven psychological counseling has gradually become an important research direction in the field of mental health. However, existing models still ...
+
+10. 🔴 r/artificial (156↑): Denmark to tackle deepfakes by giving people copyright to their own features
+
+11. 📄 Recent arXiv: '"What's Up, Doc?": Analyzing How Users Seek Health Information in
+  Large-Scale Conversational AI Datasets' - People are increasingly seeking healthcare information from large language models (LLMs) via interactive chatbots, yet the nature and inherent risks of these conversations remain largely unexplored. I...
+
